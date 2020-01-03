@@ -7,3 +7,9 @@ Filelist
 ========
 alpinist
   Alpinist magazine
+
+links.txt
+  Subscription related links
+
+manifest
+  Manifest file for use by resync script
