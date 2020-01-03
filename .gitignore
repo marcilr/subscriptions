@@ -1,0 +1,8 @@
+#.gitignore
+# Created Fri 03 Jan 2020 01:03:26 PM AKST
+# by Raymond E. Marcil <marcilr@gmail.com>
+#
+# Files for git to ignore
+#
+.gitignore
+alpinist/
