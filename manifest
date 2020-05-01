@@ -32,3 +32,4 @@
 # Source                                            Target
 # ----------------------------------------------------------
 ssh://git@github.com/marcilr/alpinist.git           alpinist
+ssh://git@github.com/marcilr/magzter.git            magzter
