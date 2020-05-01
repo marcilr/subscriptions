@@ -13,3 +13,6 @@ links.txt
 
 manifest
   Manifest file for use by resync script
+
+Magzter
+  ssh://git@github.com/marcilr/magzter.git 
